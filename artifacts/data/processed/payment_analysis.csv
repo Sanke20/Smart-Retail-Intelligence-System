@@ -1,0 +1,7 @@
+Payment Method,customer_records,total_purchase_amount
+Bank Transfer,632,37123
+Cash,648,38833
+Credit Card,696,42567
+Debit Card,633,37118
+PayPal,638,37449
+Venmo,653,39991
